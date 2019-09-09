@@ -1,1 +1,17 @@
-body {background:#C4482E}
+body {background:rgb(29, 236, 91);
+    margin-left: 100px;
+    margin-right: 300px;}
+
+header {margin-top: 70px}
+
+h1 {color: black;
+    font-family: fantasy}
+
+h2 {font-family: fantasy}
+
+p {font-size: 18px}
+
+img {margin-bottom: 20px}
+
+
+
